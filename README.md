@@ -1,4 +1,4 @@
-# CSDN开发者周刊
+# CSDN社区周刊
 [CSDN周刊：让Elasticsearch飞起来!——性能优化实践干货](https://blog.csdn.net/blogdevteam/article/details/85164747)
 
 [CSDN周刊：程序员如何写出没有Bug的代码？](https://blog.csdn.net/blogdevteam/article/details/85322072)
